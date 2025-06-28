@@ -15,7 +15,7 @@ To clone this project from scratch, follow these steps:
 
 3. Run the following command to clone the repository:
    ```
-   git clone https://github.com/magneto-09/Ecommerce-App.git
+   git clone https://github.com/hackwithclay/Ecommerce-App.git
    ```
 
 4. Once the cloning process is complete, navigate into the project directory:
